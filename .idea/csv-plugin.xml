@@ -52,6 +52,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\frequency.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\interpreter.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\pathfinder.py">
           <value>
             <Attribute>
