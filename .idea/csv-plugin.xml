@@ -52,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\flask_blog\templates\reset_request.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\frequency.py">
           <value>
             <Attribute>
@@ -88,6 +95,13 @@
           </value>
         </entry>
         <entry key="\test.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\x.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
